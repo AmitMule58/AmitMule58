@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spri9ngBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Java,Spring ,SpringBoot,Microservice,MySql,MongoDb,Html,Css,Javascrpit,**
 
