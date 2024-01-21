@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Mule</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" alt="amitmule58" /> </p>
+<p align="centre"> <img src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" alt="amitmule58" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmule58" alt="amitmule58" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Java,Spring ,SpringBoot,Microservice,MySql,MongoDb,Html,Css,Javascrpit,**
+- 💬 Ask me about **Java, Spring, SpringBoot, Microservice, MySql, MongoDb, Html, Css**
 
 - 📫 How to reach me **amitmule5858@gmail.com**
 
