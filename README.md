@@ -1,4 +1,4 @@
-![image](https://github.com/AmitMule58/AmitMule58/assets/114135523/598321be-07f4-4701-b83c-566c860c4d53)<h1 align="center">Hi 👋, I'm Amit Mule</h1>
+<h1 align="center">Hi 👋, I'm Amit Mule</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="amitmule58" /> </p>
