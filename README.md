@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java,Spring ,SpringBoot,Microservice,MySql,MongoDb,Html,Css,Javascrpit,**
+- 💬 Ask me about **Java, Spring, SpringBoot, Microservice, MySql, MongoDb, Html, CSS, Javascript,**
 
 - 📫 How to reach me **amitmule5858@gmail.com**
 
