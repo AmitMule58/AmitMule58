@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="git" width="40" height="40"/> </a>, Welcome to my GitHub </h1>
+<h1 align="center">Hi <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="git" width="40" height="40"/> </a>, Welcome to my GitHub </h1>
 <h1 align="center">I'm Amit Mule</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
