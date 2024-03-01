@@ -1,6 +1,6 @@
 <h1 align="center">Hi <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="git" width="40" height="40"/> </a>, Welcome to my GitHub </h1>
-<h1 align="center">I'm Amit Mule</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<! -- <h1 align="center">I'm Amit Mule</h1>
+<h3 align="center">A passionate Software developer from India</h3> -->
 
 <p align="left"> <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="amitmule58" /> </p>
 
