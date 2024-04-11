@@ -58,8 +58,8 @@
 
 
 <h3 align="left"> Others: </h3>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*fE1jbwbRGKUsp4tnlcSSvg.png" alt="postman" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*fE1jbwbRGKUsp4tnlcSSvg.png" alt="Agile" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" alt="jita" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-illustrator-9234635-7516860.png?f=webp" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-9234637-7516862.png?f=webp" alt="photoshop" width="40" height="40"/> </a> 
