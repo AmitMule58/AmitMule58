@@ -22,7 +22,7 @@
 
 
 <h3 align="left"> Backend/Server: </h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.credosystemz.com/wp-content/uploads/2023/09/java-j2ee.webp" alt="bootstrap"  height="40"/> </a> 
+<p align="left"> <code><img src="https://www.credosystemz.com/wp-content/uploads/2023/09/java-j2ee.webp" alt="bootstrap"  height="40"/> </code> 
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png" height="30"></code>
@@ -31,7 +31,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
 <code><img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="40"></code>
-<code><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/Apache%20Tomcat_0.png" height="30"></code>
+<code><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/Apache%20Tomcat_0.png" height="40"></code>
 
 
 <h3 align="left"> Frontend/UI: </h3>
@@ -41,9 +41,9 @@
 
 
 <h3 align="left"> Micro-Services: </h3>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
-<code><img src="https://en.m.wikipedia.org/wiki/File:Elasticsearch_logo.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" alt="restAPI" height="30"></codae>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png" alt="Elasticsearch" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" alt="eureka" height="30"></code>
 
 <h3 align="left"> Database: </h3>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
