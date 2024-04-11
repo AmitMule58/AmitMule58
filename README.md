@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit mule" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-9185421-7516819.png?f=webp" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/m_amit__" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-9185417-7516815.png?f=webp" alt="m_amit__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit mule" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-9185421-7516819.png?f=webp" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://instagram.com/m_amit__" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-9185417-7516815.png?f=webp" alt="m_amit__" height="30" width="30" /></a>
 </p>
 
 
@@ -54,14 +54,15 @@
 
 <h3 align="left"> Cloud/Dev-Ops: </h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-git-9294878-7578021.png?f=webp" alt="git" width="40" height="40"/> </a>
-<code><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-9185439-7516837.png?f=webp" alt="github" height="30"></code>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-9185439-7516837.png?f=webp" alt="git" width="40" height="40"/> </a>
+
 
 <h3 align="left"> Others: </h3>
-<code><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*fE1jbwbRGKUsp4tnlcSSvg.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" height="30"></code>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*fE1jbwbRGKUsp4tnlcSSvg.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-illustrator-9234635-7516860.png?f=webp" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-9234637-7516862.png?f=webp" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/416/962/png-transparent-figma-design-soft-design-tool-design-tool-logo-design-logo-tool-3d-icon.png" alt="figma" width="40" height="40"/> </a> </p
 
 
