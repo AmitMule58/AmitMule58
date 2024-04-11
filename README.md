@@ -21,53 +21,47 @@
 </p>
 
 
-<h3 align="left">Backend/Server:</h3>
+<h3 align="left"> Backend/Server: </h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.credosystemz.com/wp-content/uploads/2023/09/java-j2ee.webp" alt="bootstrap"  height="40"/> </a> 
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30"></code>
+<code><img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="40"></code>
+<code><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/Apache%20Tomcat_0.png" height="30"></code>
 
 
-<h3 align="left">Micro-Services:</h3>
+<h3 align="left"> Frontend/UI: </h3>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+
+<h3 align="left"> Micro-Services: </h3>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.png" height="30"></code>
+<code><img src="https://en.m.wikipedia.org/wiki/File:Elasticsearch_logo.svg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" height="30"></code>
 
-<h3 align="left">Database:</h3>
+<h3 align="left"> Database: </h3>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
 <code><img src="https://5.imimg.com/data5/SELLER/Default/2024/3/401044016/VR/OB/KH/15037679/oracle-sql-plsql-course-online-training-classes-from-india-500x500.png" height="30"></code>
 
- <h3 align="left">Cloud/Dev-Ops:</h3>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<h3 align="left"> Cloud/Dev-Ops: </h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" alt="github" height="30"></code>
 
- <h3 align="left">Others:</h3>
+<h3 align="left"> Others: </h3>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/agile.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" height="30"></code>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> 
-  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/416/962/png-transparent-figma-design-soft-design-tool-design-tool-logo-design-logo-tool-3d-icon.png" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/416/962/png-transparent-figma-design-soft-design-tool-design-tool-logo-design-logo-tool-3d-icon.png" alt="figma" width="40" height="40"/> </a> </p
+
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmule58&show_icons=true&locale=en&layout=compact" alt="amitmule58"/> </p>
 
