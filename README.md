@@ -15,7 +15,7 @@
 - 📫 How to reach me **amitmule5858@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/amit mule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit mule" height="30" width="40" /></a>
 <a href="https://instagram.com/m_amit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_amit__" height="30" width="40" /></a>
 </p>
@@ -31,7 +31,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
 <code><img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="40"></code>
-<code><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/Apache%20Tomcat_0.png" height="40"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/595px-Apache_Tomcat_logo.svg.png?20230726204155" height="40"></code>
 
 
 <h3 align="left"> Frontend/UI: </h3>
@@ -41,7 +41,7 @@
 
 
 <h3 align="left"> Micro-Services: </h3>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" alt="restAPI" height="30"></codae>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" alt="restAPI" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png" alt="Elasticsearch" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" alt="eureka" height="30"></code>
 
