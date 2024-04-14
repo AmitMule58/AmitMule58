@@ -63,6 +63,10 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="45" height="45"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-illustrator-9234635-7516860.png?f=webp" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-9234637-7516862.png?f=webp" alt="photoshop" width="40" height="40"/> </a> 
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-figma-9234652-7516877.png?f=webp" alt="figma" width="40" height="40"/> </a>
+<video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/adobe-photoshop-8508143-6742339.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-figma-9234652-7516877.png?f=webp" alt="figma" width="40" height="40"/> </a> </p
 
 
