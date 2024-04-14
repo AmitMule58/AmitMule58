@@ -23,7 +23,7 @@
 
 <h3 align="left"> Backend/Server: </h3>
 <p align="left">
-<code><img src="https://www.credosystemz.com/wp-content/uploads/2023/09/java-j2ee.webp" alt="j2ee" height="40"/> </code> 
+<code><img src="https://seeklogo.com/images/J/javaee-logo-0729BC7470-seeklogo.com.png" alt="j2ee" height="40"/> </code> 
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://i0.wp.com/proselyte.net/wp-content/uploads/2017/03/servlets.png?w=322&ssl=1" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/640px-Spring_Framework_Logo_2018.svg.png" height="30"></code>
@@ -31,7 +31,7 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/640px-Hibernate_logo_a.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
 <code><img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="40"></code>
+<code><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*St3fqJKbsSZD_eAhE5HtAw.png" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/595px-Apache_Tomcat_logo.svg.png?20230726204155" height="40"></code>
 
 
