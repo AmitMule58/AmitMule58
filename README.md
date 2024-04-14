@@ -49,7 +49,7 @@
 
 <h3 align="left"> Database: </h3>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30"></code>
 <code><img src="https://5.imimg.com/data5/SELLER/Default/2024/3/401044016/VR/OB/KH/15037679/oracle-sql-plsql-course-online-training-classes-from-india-500x500.png" height="30"></code>
 
 <h3 align="left"> Cloud/Dev-Ops: </h3>
