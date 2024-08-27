@@ -59,7 +59,8 @@
 
 <h3 align="left"> Others: </h3>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*fE1jbwbRGKUsp4tnlcSSvg.png" alt="Agile" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/640px-Jira_Logo.svg.png" alt="jira" height="40"/> </a>
+<a href="https://rally1.rallydev.com" target="_blank" rel="noreferrer"> <img src="https://rally1.rallydev.com/#/490352186444ud/myrally" alt="rally" height="40"/> </a>
+<a href="https://jira.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/640px-Jira_Logo.svg.png" alt="jira" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" width="45" height="45"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-illustrator-9234635-7516860.png?f=webp" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-adobe-photoshop-9234637-7516862.png?f=webp" alt="photoshop" width="40" height="40"/> </a> 
