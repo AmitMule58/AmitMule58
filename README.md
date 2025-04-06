@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="git" width="40" height="40"/> </a>, Welcome to my GitHub </h1>
-<!-- <h1 align="center">I'm Amit Mule</h1> -->
+<!-- <h1 align="center">I'm Saurabh Chittalwar</h1> -->
 <!-- <h3 align="center">A passionate Software developer from India</h3> -->
 
 <p align="left"> <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="amitmule58" /> </p>
@@ -12,12 +12,11 @@
 
 - 💬 Ask me about **Java, Spring, SpringBoot, Microservice, MySql, MongoDb, Html, CSS, Javascript**
 
-- 📫 How to reach me **amitmule5858@gmail.com**
+- 📫 How to reach me **saurabhchittalwar24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit mule" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-9185421-7516819.png?f=webp" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://instagram.com/m_amit__" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-9185417-7516815.png?f=webp" alt="m_amit__" height="30" width="30" /></a>
+
 </p>
 
 
